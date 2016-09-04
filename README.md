@@ -6,3 +6,6 @@
 
 #hijack
 是用来劫持broadcast项目的
+
+##desjiemi
+这个是用来解密so文件的代码
